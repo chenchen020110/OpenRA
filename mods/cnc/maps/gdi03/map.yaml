@@ -250,10 +250,10 @@ Actors:
 	Actor67: tc02
 		Location: 2,48
 		Owner: Neutral
-	Actor68: t03
+	Actor68: T03.Transformable
 		Location: 41,57
 		Owner: Neutral
-	Actor69: t03
+	Actor69: T03.Transformable
 		Location: 45,55
 		Owner: Neutral
 	Actor70: t06

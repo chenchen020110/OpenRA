@@ -181,7 +181,7 @@ Actors:
 	Actor42: tc02
 		Location: 48,45
 		Owner: Neutral
-	Actor43: t03
+	Actor43: T03.Transformable
 		Location: 58,37
 		Owner: Neutral
 	Actor44: t01

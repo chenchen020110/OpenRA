@@ -553,10 +553,10 @@ Actors:
 	Actor168: tc02
 		Location: 54,40
 		Owner: Neutral
-	Actor169: t03
+	Actor169: T03.Transformable
 		Location: 32,30
 		Owner: Neutral
-	Actor170: t03
+	Actor170: T03.Transformable
 		Location: 34,37
 		Owner: Neutral
 	Actor171: tc01
@@ -643,7 +643,7 @@ Actors:
 	Actor198: t02
 		Location: 61,32
 		Owner: Neutral
-	Actor199: t03
+	Actor199: T03.Transformable
 		Location: 48,32
 		Owner: Neutral
 	Actor200: tc04

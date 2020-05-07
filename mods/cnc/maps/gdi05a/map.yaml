@@ -286,10 +286,10 @@ Actors:
 	Actor77: t05
 		Location: 8,37
 		Owner: Neutral
-	Actor78: t03
+	Actor78: T03.Transformable
 		Location: 8,34
 		Owner: Neutral
-	Actor79: t03
+	Actor79: T03.Transformable
 		Location: 33,56
 		Owner: Neutral
 	Actor80: tc04

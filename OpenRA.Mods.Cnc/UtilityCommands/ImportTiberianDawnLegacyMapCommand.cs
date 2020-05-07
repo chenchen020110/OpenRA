@@ -115,7 +115,16 @@ namespace OpenRA.Mods.Cnc.UtilityCommands
 
 		public override string ParseTreeActor(string input)
 		{
-			return input.Split(',')[0].ToLowerInvariant();
+			var tree = input.Split(',')[0].ToLowerInvariant();
+
+			switch (tree)
+			{
+				case "t03":
+				case "t13":
+					return tree + ".Transformable";
+				default:
+					return tree;
+			}
 		}
 
 		public override CPos ParseActorLocation(string input, int loc)

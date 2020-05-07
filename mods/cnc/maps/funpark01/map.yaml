@@ -180,7 +180,7 @@ Actors:
 	Actor43: t01
 		Location: 25,53
 		Owner: Neutral
-	Actor44: t03
+	Actor44: T03.Transformable
 		Location: 53,47
 		Owner: Neutral
 	Actor45: t05
@@ -231,10 +231,10 @@ Actors:
 	Actor60: t01
 		Location: 13,7
 		Owner: Neutral
-	Actor61: t03
+	Actor61: T03.Transformable
 		Location: 18,10
 		Owner: Neutral
-	Actor62: t03
+	Actor62: T03.Transformable
 		Location: 20,14
 		Owner: Neutral
 	Actor63: tc04
@@ -279,7 +279,7 @@ Actors:
 	Actor76: t01
 		Location: 40,10
 		Owner: Neutral
-	Actor77: t03
+	Actor77: T03.Transformable
 		Location: 37,8
 		Owner: Neutral
 	Actor78: t05

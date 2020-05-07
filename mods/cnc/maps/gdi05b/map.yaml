@@ -238,10 +238,10 @@ Actors:
 	Actor61: t05
 		Location: 30,15
 		Owner: Neutral
-	Actor62: t03
+	Actor62: T03.Transformable
 		Location: 13,34
 		Owner: Neutral
-	Actor63: t03
+	Actor63: T03.Transformable
 		Location: 26,42
 		Owner: Neutral
 	Actor64: tc04
@@ -358,7 +358,7 @@ Actors:
 	Actor101: tc02
 		Location: 40,30
 		Owner: Neutral
-	Actor102: t03
+	Actor102: T03.Transformable
 		Location: 36,24
 		Owner: Neutral
 	Actor121: gun

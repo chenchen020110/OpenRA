@@ -313,7 +313,7 @@ Actors:
 	Actor88: tc02
 		Location: 31,14
 		Owner: Neutral
-	Actor89: t03
+	Actor89: T03.Transformable
 		Location: 21,9
 		Owner: Neutral
 	Actor90: split2
@@ -364,7 +364,7 @@ Actors:
 	Actor105: t11
 		Location: 19,39
 		Owner: Neutral
-	Actor106: t03
+	Actor106: T03.Transformable
 		Location: 20,42
 		Owner: Neutral
 	Actor107: t01

@@ -496,7 +496,7 @@ Actors:
 	Actor149: tc01
 		Location: 16,41
 		Owner: Neutral
-	Actor150: t03
+	Actor150: T03.Transformable
 		Location: 47,32
 		Owner: Neutral
 	Actor151: t02
@@ -583,10 +583,10 @@ Actors:
 	Actor178: tc01
 		Location: 36,36
 		Owner: Neutral
-	Actor179: t03
+	Actor179: T03.Transformable
 		Location: 34,37
 		Owner: Neutral
-	Actor180: t03
+	Actor180: T03.Transformable
 		Location: 32,30
 		Owner: Neutral
 	Actor181: tc02
